@@ -1,0 +1,15 @@
+.header {
+    background-image: url(https://picsum.photos/1600/300);
+    background-size: cover;
+    height: 300px;
+}
+
+img#logo {
+    max-height: 32px;
+}
+
+main.container-fluid {
+    padding-top: 59px;
+    padding-left: 0;
+    padding-right: 0;
+}
