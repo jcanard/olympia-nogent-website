@@ -1,0 +1,57 @@
+.header {
+    background-image: url("../img/maison-associations.jpg");
+    background-size: cover;
+    height: 250px;
+}
+
+body {
+    font-family: 'Oxygen', sans-serif;
+}
+
+h1 {
+    font-family: 'Righteous', cursive;
+    color: #2f89ce;
+}
+
+h2 {
+    font-family: 'Righteous', cursive;
+    color: #2f89ce;
+}
+
+a {
+    color: #e5584b;
+}
+
+img#logo {
+    max-height: 32px;
+}
+
+main.container-fluid {
+    padding-top: 59px;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.section {
+    padding-top: 60px;
+    margin-top: -60px;
+}
+
+.section-bg {
+    background-color: #f2f9ff
+}
+
+.navbar-bg {
+    background-color: #2f89ce;
+}
+
+.fa-facebook {
+    /*color: rgb(59, 91, 152);*/
+    color: white;
+    font-size: 2em;
+}
+
+.fa-envelope {
+    color: white;
+    font-size: 2em;
+}
