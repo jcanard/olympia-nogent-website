@@ -1,5 +1,5 @@
 .header {
-    background-image: url("../img/maison-associations.jpg");
+    background-image: url("../img/bandeau-maison-associations.jpg");
     background-size: cover;
     height: 250px;
 }
@@ -54,4 +54,7 @@ main.container-fluid {
 .fa-envelope {
     color: white;
     font-size: 2em;
+}
+.mentions-legales {
+    font-size: 0.8em;
 }
